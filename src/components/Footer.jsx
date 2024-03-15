@@ -6,7 +6,7 @@ function Footer() {
     <Row>
       <Col>
         <footer>
-          <div className="row justify-content-center mt-5">
+          <div className="row justify-content-center mt-5 border border-secondary">
             <div className="col col-6">
               <div className="row">
                 <div className="col mb-2">
